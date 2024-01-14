@@ -1,0 +1,5 @@
+.terraform/providers/registry.terraform.io/hashicorp/time/0.9.1/linux_amd64/terraform-provider-time_v0.9.1_x5
+.terraform.lock.hcl
+vnet-to-vnet.drawio
+.terraform
+terraform.tfstate.backup
